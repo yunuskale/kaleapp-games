@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "id": "blockboom",
+      "name": "Block Boom",
+      "android": "com.kaleapp.blockpuzzle",
+      "ios": "6499559926",
+      "icon": "https://play-lh.googleusercontent.com/YjAprPWSYNKEPHgxcLMMB9n82Efu94MmQ-3aY4pLbgM1vk50eMmp3UUtzXnO0cABArbnhe44PnrDXlUhOiDu-oE=s256",
+      "age": 3,
+      "text": {
+        "en": "Block puzzle with bombs, rockets and lightning.",
+        "tr": "Bomba, roket ve yıldırımlı blok bulmaca."
+      }
+    },
+    {
+      "id": "mimicchess",
+      "name": "Mimic Chess",
+      "android": "com.PandaAzStudio.ChessPuzz",
+      "icon": "https://play-lh.googleusercontent.com/XFBr4gGbLUJ4YWjvVSPVvmLVL0uwtgHu8b3xknDcRP1HiRhygHgKCduzhUR6l66jJqNwmwmJUczjUii2zZgSSgE=s256",
+      "age": 3,
+      "text": {
+        "en": "Capture a piece, become it. 640 chess puzzles.",
+        "tr": "Aldığın taşa dönüş. 640 satranç bulmacası."
+      }
+    },
+    {
+      "id": "organicfruit",
+      "name": "Organic Fruit",
+      "android": "com.kaleapp.OrganicFruit",
+      "icon": "https://play-lh.googleusercontent.com/QaGIcm2STo59YpEptBRw3fyVC3RtTePfLL71ydKHdinUf55B2TwGR0nUcVks3vq9e-UqHYnOf0JmhX4MdvbHvzA=s256",
+      "age": 3,
+      "text": {
+        "en": "Harvest combos and run your own organic shop.",
+        "tr": "Kombo hasat yap, kendi organik dükkanını işlet."
+      }
+    },
+    {
+      "id": "warchess",
+      "name": "War Chess",
+      "android": "com.kaleapp.warchess",
+      "ios": "6471450067",
+      "icon": "https://play-lh.googleusercontent.com/y4UZvaDFpGe02kxCK-gYztTkZeLWHwhZgw7LYTMkaZ9Q-5Xtzma1_L3cmBDFTvkaZkpqGl9va4T4p2b2gzg1dA=s256",
+      "age": 16,
+      "text": {
+        "en": "Real-time chess strategy: drop pieces, destroy the king!",
+        "tr": "Gerçek zamanlı satranç stratejisi: taş koy, şahı yık!"
+      }
+    }
+  ]
+}
