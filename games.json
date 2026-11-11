@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "id": "onespark",
+      "name": "One Spark",
+      "android": "com.kaleapp.onespark",
+      "ios": "",
+      "icon": "https://play-lh.googleusercontent.com/elGDSouITK-K64k4j140ituwXvHlxCTS9IJoaPJSqU-u714EiHGw1fAsciB8M7kubx00uiIMRuahUlo6-5-vzk0=s256",
+      "age": 3,
+      "text": {
+        "en": "Drop one spark and burn every jewel. 500 chain reaction puzzles.",
+        "tr": "Tek kıvılcımla bütün mücevherleri yak. 500 zincirleme bulmaca."
+      }
+    },
+    {
       "id": "blockboom",
       "name": "Block Boom",
       "android": "com.kaleapp.blockpuzzle",
@@ -16,6 +28,7 @@
       "id": "mimicchess",
       "name": "Mimic Chess",
       "android": "com.PandaAzStudio.ChessPuzz",
+      "ios": "6670690156",
       "icon": "https://play-lh.googleusercontent.com/XFBr4gGbLUJ4YWjvVSPVvmLVL0uwtgHu8b3xknDcRP1HiRhygHgKCduzhUR6l66jJqNwmwmJUczjUii2zZgSSgE=s256",
       "age": 3,
       "text": {
@@ -27,6 +40,7 @@
       "id": "organicfruit",
       "name": "Organic Fruit",
       "android": "com.kaleapp.OrganicFruit",
+      "ios": "",
       "icon": "https://play-lh.googleusercontent.com/QaGIcm2STo59YpEptBRw3fyVC3RtTePfLL71ydKHdinUf55B2TwGR0nUcVks3vq9e-UqHYnOf0JmhX4MdvbHvzA=s256",
       "age": 3,
       "text": {
