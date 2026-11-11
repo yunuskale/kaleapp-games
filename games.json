@@ -8,8 +8,19 @@
       "icon": "https://play-lh.googleusercontent.com/elGDSouITK-K64k4j140ituwXvHlxCTS9IJoaPJSqU-u714EiHGw1fAsciB8M7kubx00uiIMRuahUlo6-5-vzk0=s256",
       "age": 3,
       "text": {
+        "tr": "Tek kıvılcımla bütün mücevherleri yak. 500 zincirleme bulmaca.",
         "en": "Drop one spark and burn every jewel. 500 chain reaction puzzles.",
-        "tr": "Tek kıvılcımla bütün mücevherleri yak. 500 zincirleme bulmaca."
+        "es": "Suelta una chispa y quema todas las joyas. 500 puzles de reacción en cadena.",
+        "pt": "Solte uma faísca e queime todas as joias. 500 quebra-cabeças de reação em cadeia.",
+        "de": "Setze einen Funken und verbrenne jedes Juwel. 500 Kettenreaktions-Rätsel.",
+        "fr": "Lâche une étincelle et brûle tous les joyaux. 500 casse-têtes à réaction en chaîne.",
+        "it": "Lancia una scintilla e brucia ogni gioiello. 500 rompicapi a reazione a catena.",
+        "ru": "Брось одну искру и сожги все самоцветы. 500 головоломок с цепной реакцией.",
+        "id": "Jatuhkan satu percikan dan bakar semua permata. 500 teka-teki reaksi berantai.",
+        "vi": "Thả một tia lửa, thiêu rụi mọi viên ngọc. 500 câu đố phản ứng dây chuyền.",
+        "ja": "ひとつの火花で宝石をすべて燃やそう。連鎖パズル500問。",
+        "ko": "불꽃 하나로 모든 보석을 불태우세요. 연쇄 반응 퍼즐 500개.",
+        "zh": "一颗火花，烧尽所有宝石。500道连锁反应谜题。"
       }
     },
     {
@@ -20,8 +31,19 @@
       "icon": "https://play-lh.googleusercontent.com/YjAprPWSYNKEPHgxcLMMB9n82Efu94MmQ-3aY4pLbgM1vk50eMmp3UUtzXnO0cABArbnhe44PnrDXlUhOiDu-oE=s256",
       "age": 3,
       "text": {
+        "tr": "Bomba, roket ve yıldırımlı blok bulmaca.",
         "en": "Block puzzle with bombs, rockets and lightning.",
-        "tr": "Bomba, roket ve yıldırımlı blok bulmaca."
+        "es": "Puzle de bloques con bombas, cohetes y rayos.",
+        "pt": "Quebra-cabeça de blocos com bombas, foguetes e raios.",
+        "de": "Blockpuzzle mit Bomben, Raketen und Blitzen.",
+        "fr": "Puzzle de blocs avec bombes, fusées et éclairs.",
+        "it": "Puzzle di blocchi con bombe, razzi e fulmini.",
+        "ru": "Блочная головоломка с бомбами, ракетами и молниями.",
+        "id": "Puzzle balok dengan bom, roket, dan petir.",
+        "vi": "Xếp khối với bom, tên lửa và tia sét.",
+        "ja": "爆弾・ロケット・雷で遊ぶブロックパズル。",
+        "ko": "폭탄, 로켓, 번개가 있는 블록 퍼즐.",
+        "zh": "带有炸弹、火箭和闪电的方块拼图。"
       }
     },
     {
@@ -32,8 +54,19 @@
       "icon": "https://play-lh.googleusercontent.com/XFBr4gGbLUJ4YWjvVSPVvmLVL0uwtgHu8b3xknDcRP1HiRhygHgKCduzhUR6l66jJqNwmwmJUczjUii2zZgSSgE=s256",
       "age": 3,
       "text": {
+        "tr": "Aldığın taşa dönüş. 640 satranç bulmacası.",
         "en": "Capture a piece, become it. 640 chess puzzles.",
-        "tr": "Aldığın taşa dönüş. 640 satranç bulmacası."
+        "es": "Captura una pieza y conviértete en ella. 640 puzles de ajedrez.",
+        "pt": "Capture uma peça e transforme-se nela. 640 quebra-cabeças de xadrez.",
+        "de": "Schlage eine Figur und werde zu ihr. 640 Schachrätsel.",
+        "fr": "Capture une pièce et deviens-la. 640 casse-têtes d'échecs.",
+        "it": "Cattura un pezzo e diventalo. 640 rompicapi di scacchi.",
+        "ru": "Съешь фигуру и стань ею. 640 шахматных задач.",
+        "id": "Tangkap bidak, jadilah bidak itu. 640 teka-teki catur.",
+        "vi": "Ăn quân nào, hóa thành quân đó. 640 câu đố cờ vua.",
+        "ja": "取った駒に変身。チェスパズル640問。",
+        "ko": "잡은 기물로 변신하세요. 체스 퍼즐 640개.",
+        "zh": "吃掉哪个棋子，就变成哪个棋子。640道国际象棋谜题。"
       }
     },
     {
@@ -44,8 +77,19 @@
       "icon": "https://play-lh.googleusercontent.com/QaGIcm2STo59YpEptBRw3fyVC3RtTePfLL71ydKHdinUf55B2TwGR0nUcVks3vq9e-UqHYnOf0JmhX4MdvbHvzA=s256",
       "age": 3,
       "text": {
+        "tr": "Kombo hasat yap, kendi organik dükkanını işlet.",
         "en": "Harvest combos and run your own organic shop.",
-        "tr": "Kombo hasat yap, kendi organik dükkanını işlet."
+        "es": "Cosecha combos y dirige tu propia tienda orgánica.",
+        "pt": "Colha combos e administre sua própria loja orgânica.",
+        "de": "Ernte Kombos und führe deinen eigenen Bioladen.",
+        "fr": "Récolte des combos et gère ta propre boutique bio.",
+        "it": "Raccogli combo e gestisci il tuo negozio biologico.",
+        "ru": "Собирай комбо и управляй своей органической лавкой.",
+        "id": "Panen kombo dan kelola toko organikmu sendiri.",
+        "vi": "Thu hoạch combo và tự điều hành cửa hàng hữu cơ của bạn.",
+        "ja": "コンボで収穫して、自分のオーガニックショップを経営しよう。",
+        "ko": "콤보로 수확하고 나만의 유기농 가게를 운영하세요.",
+        "zh": "连击收获，经营你自己的有机商店。"
       }
     },
     {
@@ -56,8 +100,19 @@
       "icon": "https://play-lh.googleusercontent.com/y4UZvaDFpGe02kxCK-gYztTkZeLWHwhZgw7LYTMkaZ9Q-5Xtzma1_L3cmBDFTvkaZkpqGl9va4T4p2b2gzg1dA=s256",
       "age": 16,
       "text": {
+        "tr": "Gerçek zamanlı satranç stratejisi: taş koy, şahı yık!",
         "en": "Real-time chess strategy: drop pieces, destroy the king!",
-        "tr": "Gerçek zamanlı satranç stratejisi: taş koy, şahı yık!"
+        "es": "Estrategia de ajedrez en tiempo real: coloca piezas, ¡derriba al rey!",
+        "pt": "Estratégia de xadrez em tempo real: coloque peças, destrua o rei!",
+        "de": "Schachstrategie in Echtzeit: Figuren setzen, den König stürzen!",
+        "fr": "Stratégie d'échecs en temps réel : place tes pièces, renverse le roi !",
+        "it": "Strategia di scacchi in tempo reale: piazza i pezzi, abbatti il re!",
+        "ru": "Шахматная стратегия в реальном времени: ставь фигуры, сокруши короля!",
+        "id": "Strategi catur waktu nyata: taruh bidak, hancurkan raja!",
+        "vi": "Chiến thuật cờ vua thời gian thực: thả quân, hạ gục vua!",
+        "ja": "リアルタイムのチェス戦略：駒を置いて、キングを倒せ！",
+        "ko": "실시간 체스 전략: 기물을 놓고 킹을 무너뜨려라!",
+        "zh": "实时国际象棋策略：落子布阵，击溃国王！"
       }
     }
   ]
